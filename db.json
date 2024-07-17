@@ -1,5 +1,5 @@
 {
-    "fe": [
+    "posts": [
         {
             "id": 1,
             "title": "Post 1"
@@ -13,7 +13,7 @@
             "title": "Post 3"
         }
     ],
-    "fds": [
+    "flags": [
         {
             "id": 1,
             "body": "some comment",
@@ -25,7 +25,7 @@
             "postId": 1
         }
     ],
-    "sdf": {
+    "comments": {
         "name": "typicode"
     }
 }
