@@ -1,4 +1,4 @@
-
+{
     "posts": [
         {
             "id": 1,
@@ -13,7 +13,7 @@
             "title": "Post 3"
         }
     ],
-    "flags": [
+    "comments": [
         {
             "id": 1,
             "body": "some comment",
@@ -25,7 +25,7 @@
             "postId": 1
         }
     ],
-    "comments": {
+    "profile": {
         "name": "typicode"
     }
-
+}
