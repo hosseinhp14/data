@@ -13,16 +13,54 @@
             "title": "Post 3"
         }
     ],
-    "comments": [
+    "banners": [
         {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "id": "1",
+            "title": "Explore the World Through Stories",
+            "description": "Discover our curated collection of books and novels to enhance your language skills. Ready for your next great read? Browse all books now!",
+            "buttonText": "Browse books",
+            "buttonLink": "/audiobooks",
+            "books": [
+                {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "coverImage": "/poster-book1.jpg"
+                },
+                {
+                    "title": "Hamlet",
+                    "author": "William Shakespeare",
+                    "coverImage": "/poster-book2.jpg"
+                },
+                {
+                    "title": "Little Women",
+                    "author": "Louisa May Alcott",
+                    "coverImage": "/poster-book3.jpg"
+                }
+            ]
         },
         {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "id": "2",
+            "title": "Watch the content you want",
+            "description": "Discover our some text to be different your language skills. Ready for your next great read? Browse all books now!",
+            "buttonText": "Browse books",
+            "buttonLink": "/books",
+            "books": [
+                {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "coverImage": "/poster-book4.jpg"
+                },
+                {
+                    "title": "Hamlet",
+                    "author": "William Shakespeare",
+                    "coverImage": "/poster-book5.jpg"
+                },
+                {
+                    "title": "Little Women",
+                    "author": "Louisa May Alcott",
+                    "coverImage": "/poster-book3.jpg"
+                }
+            ]
         }
     ],
     "profile": {
